@@ -1,0 +1,6 @@
+name: SkinFixer
+version: 1.0
+main: Rush\SkinFixer\Main
+api: 3.0.0
+author: Rush
+website: https://github.com/Rush2927/SkinFixer
